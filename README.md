@@ -1,6 +1,6 @@
-- 👋 Olá, meu nome é @P7dr0 e tenho 19 anos
-- 🌱 Atualmente estou aprendendo e me aprofundando em HTML, CSS e JavaScript
-- 🤓 Criei esse GitHub porque  Sempre fui apaixonado por tecnologia e meu sonho é poder trabalahar nessa área, então vou compartilhar minha evolução nessa rede
+- 👋 Olá, meu nome é @P7dr0 e tenho 21 anos
+- 🌱 Atualmente estou aprendendo e me aprofundando em HTML, CSS e PHP
+
 
 <!---
 P7dr0/P7dr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
